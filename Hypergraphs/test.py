@@ -78,7 +78,7 @@ def test (config) :
             if count == config.test_num :
                 return
             print ('-'*20)
-    else :
+    else:
         count = 0
         for root, dirs, files in os.walk (config.test_dir) :
             for file in files :
