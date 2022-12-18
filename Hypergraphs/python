@@ -1,0 +1,66 @@
+-------------------- Options --------------------
+base_dir : Testing2
+checkpoint_prefix : ckpt-200
+dataset : celeba-hq
+date_str : 20220621-151329
+image_shape : [256, 256, 3]
+max_strokes : 48
+min_strokes : 16
+mode : save
+model_folder : 20220621-151329_HypergraphII_celeba-hq_shape256x256_grid_mask
+model_name : HypergraphII
+pretrained_model_dir : pretrained_models/custom/
+random_mask : 2
+random_mask_type : grid_mask
+test_dir : eg/dx0.5
+test_file_path : 
+test_num : -1
+testing_dir : Testing2\20220621-151329_HypergraphII_celeba-hq_shape256x256_grid_mask
+-------------------- End --------------------
+-------------------- Options --------------------
+base_dir : Testing2
+checkpoint_prefix : ckpt-200
+dataset : celeba-hq
+date_str : 20220621-151329
+image_shape : [256, 256, 3]
+max_strokes : 48
+min_strokes : 16
+mode : save
+model_folder : 20220621-151329_HypergraphII_celeba-hq_shape256x256_grid_mask
+model_name : HypergraphII
+pretrained_model_dir : pretrained_models/custom/
+random_mask : 2
+random_mask_type : grid_mask
+test_dir : eg/dx0.5
+test_file_path : 
+test_num : -1
+testing_dir : Testing2\20220621-151329_HypergraphII_celeba-hq_shape256x256_grid_mask
+-------------------- End --------------------
+Processing Image - 1.png
+input image size =  (1, 256, 256, 3)
+mask size =  (1, 256, 256, 1)
+--------------------
+Processing Image - 2.png
+input image size =  (1, 256, 256, 3)
+mask size =  (1, 256, 256, 1)
+--------------------
+Processing Image - 3.png
+input image size =  (1, 256, 256, 3)
+mask size =  (1, 256, 256, 1)
+--------------------
+Processing Image - 4.png
+input image size =  (1, 256, 256, 3)
+mask size =  (1, 256, 256, 1)
+--------------------
+Processing Image - 5.png
+input image size =  (1, 256, 256, 3)
+mask size =  (1, 256, 256, 1)
+--------------------
+Processing Image - 6.png
+input image size =  (1, 256, 256, 3)
+mask size =  (1, 256, 256, 1)
+--------------------
+Processing Image - 7.png
+input image size =  (1, 256, 256, 3)
+mask size =  (1, 256, 256, 1)
+--------------------
